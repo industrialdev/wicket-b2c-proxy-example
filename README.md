@@ -32,7 +32,7 @@ Included are some example policies based on the LocalAccounts starter pack provi
 - https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-user-flows?pivots=b2c-custom-policy
 - https://github.com/Azure-Samples/active-directory-b2c-custom-policy-starterpack/tree/main/LocalAccounts
 
-They have been extended to make use Wicket [UserIdentity provisioning](https://wicketapi.docs.apiary.io/#reference/main-resources/user-identities) API's and custom logic on sign up.
+They have been extended to make use Wicket [UserIdentity provisioning](https://wicketapi.docs.apiary.io/#reference/user-provisioning/user-identities) API's and custom logic on sign up.
 
 These policies are provided as a starting point and will have to be customized for a production ready setup.
 
